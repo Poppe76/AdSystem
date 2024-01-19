@@ -1,0 +1,14 @@
+{
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "d:\\Utbildning\\projects\\second12",
+      "binaryPath": "d:\\Utbildning\\projects\\second12\\avrdemo.elf",
+      "binaryArgs": []
+    },
+    {
+      "cwd": "d:\\Pdocs\\utbildning\\cplusplusforprogrammers\\projects\\second12",
+      "binaryPath": "d:\\Pdocs\\utbildning\\cplusplusforprogrammers\\projects\\second12\\avrdemo.elf",
+      "binaryArgs": []
+    }
+  ]
+}
